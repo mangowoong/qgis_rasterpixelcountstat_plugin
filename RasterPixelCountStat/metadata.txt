@@ -29,8 +29,9 @@ tags=raster, pixel count, classbreak, raster value
 
 homepage=http://www.onspatial.com
 tracker=http://hub.qgis.org/projects/rasterpixelcountstat
-repository=https://github.com/mangowoong/qgis_rasterpixelcountstat_plugin
+repository=https://github.com/mangowoong/qgis_rasterpixelcountstat_plugin.git
 icon=icon.png
+
 # experimental flag
 experimental=True
 
