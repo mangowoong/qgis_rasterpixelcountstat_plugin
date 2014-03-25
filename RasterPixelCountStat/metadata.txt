@@ -12,7 +12,7 @@
 name=Raster Pixel Count By ClassBreak
 qgisMinimumVersion=2.0
 description=Show raster's default information and Calculate raster pixels count by user input separated by comma values.
-version=0.1
+version=0.1.1
 author=Kiwoong Kim (MangoSystem)
 email=socoooooool@gmail.com
 
@@ -21,7 +21,8 @@ email=socoooooool@gmail.com
 # Optional items:
 
 # Uncomment the following line and add your changelog entries:
-# changelog=
+changelog=
+   0.1.1 - Add homepage, tracker, code repository
 
 # tags are comma separated with spaces allowed
 tags=raster, pixel count, classbreak, raster value
