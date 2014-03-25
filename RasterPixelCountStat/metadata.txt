@@ -1,0 +1,38 @@
+# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+
+# This file should be included when you package your plugin.
+
+# Mandatory items:
+
+
+[general]
+name=Raster Pixel Count By ClassBreak
+qgisMinimumVersion=2.0
+description=Show raster's default information and Calculate raster pixels count by user input separated by comma values.
+version=0.1
+author=Kiwoong Kim (MangoSystem)
+email=socoooooool@gmail.com
+
+# end of mandatory metadata
+
+# Optional items:
+
+# Uncomment the following line and add your changelog entries:
+# changelog=
+
+# tags are comma separated with spaces allowed
+tags=raster, pixel count, classbreak, raster value
+
+homepage=http://www.onspatial.com
+tracker=http://hub.qgis.org/projects/rasterpixelcountstat
+repository=https://github.com/mangowoong/qgis_rasterpixelcountstat_plugin
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
